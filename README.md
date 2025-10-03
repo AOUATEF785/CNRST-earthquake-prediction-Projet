@@ -28,3 +28,5 @@ Utilisation de données sismiques réelles pour le nettoyage, l’EDA (analyse e
    ```bash
    git clone https://github.com/AOUATEF785/CNRST-earthquake-prediction-Projet.git
    cd CNRST-earthquake-prediction-Projet
+   pip install -r requirements.txt
+
